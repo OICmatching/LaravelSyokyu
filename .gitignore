@@ -1,6 +1,16 @@
+### Composer ###
+composer.phar
 /vendor
+
+### PHP Coding Standards Fixer ###
+.php_cs.cache
+
+### Node ###
 /node_modules
-/public/storage
+
+## Laravel ##
+.env
+
+## Laravel Homestead ##
 Homestead.yaml
 Homestead.json
-.env
